@@ -164,6 +164,7 @@ app.layout = html.Div(
             [
                 html.H1(
                     "Pink Morsel Bölgesel Satış Analizi",
+                    id="dashboard-title",
                     style={
                         "marginBottom": "8px",
                         "fontSize": "36px",
